@@ -23,6 +23,7 @@
     <ProjectGuid>{3B3B8C11-3A6E-4819-BB0C-6572DA972EF8}</ProjectGuid>
     <RootNamespace>Queue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Exercise95_Queue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
